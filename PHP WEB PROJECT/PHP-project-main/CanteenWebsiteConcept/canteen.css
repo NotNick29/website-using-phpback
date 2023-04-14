@@ -1,0 +1,16 @@
+.bvdu-logo
+{
+    width: 15%;
+    height: 35%;
+}
+
+.canteenbg
+{
+    z-index: -1;
+    opacity: 0.9;
+}
+
+.top-heading
+{
+    z-index: 1;
+}
